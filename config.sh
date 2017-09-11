@@ -42,7 +42,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print "     Moto G Safetynet Fix    "
   ui_print "*******************************"
 }
 
