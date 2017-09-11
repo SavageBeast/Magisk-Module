@@ -1,0 +1,7 @@
+id=Safetynet-Fix
+name=Safetynet-Fix
+version=v2
+versionCode=2
+author=coolguy_16
+description=Allows SafetyNet to pass in Magisk v13.3 on Moto G 2015.
+template=1400
